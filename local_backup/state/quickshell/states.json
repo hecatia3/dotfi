@@ -1,0 +1,30 @@
+{
+    "ai": {
+        "model": "gemini-2.5-flash",
+        "temperature": 0.5
+    },
+    "booru": {
+        "allowNsfw": false,
+        "provider": "konachan"
+    },
+    "sidebar": {
+        "bottomGroup": {
+            "collapsed": false,
+            "tab": 0
+        }
+    },
+    "timer": {
+        "pomodoro": {
+            "cycle": 0,
+            "isBreak": false,
+            "running": false,
+            "start": 0
+        },
+        "stopwatch": {
+            "laps": [
+            ],
+            "running": false,
+            "start": 0
+        }
+    }
+}

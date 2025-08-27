@@ -1,0 +1,6 @@
+2025/08/25-14:41:24.718 2098 Reusing MANIFEST /home/laheca/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
+2025/08/25-14:41:24.727 2098 Recovering log #33
+2025/08/25-14:41:24.727 2098 Reusing old log /home/laheca/.config/YouTube Music/Local Storage/leveldb/000033.log 
+2025/08/25-15:23:25.004 2099 Level-0 table #37: started
+2025/08/25-15:23:25.012 2099 Level-0 table #37: 14277 bytes OK
+2025/08/25-15:23:25.019 2099 Delete type=0 #33

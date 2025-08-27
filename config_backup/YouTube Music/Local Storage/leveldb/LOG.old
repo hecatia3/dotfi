@@ -1,0 +1,18 @@
+2025/08/25-13:04:52.359 4a42e Reusing MANIFEST /home/laheca/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
+2025/08/25-13:04:52.361 4a42e Recovering log #27
+2025/08/25-13:04:52.364 4a42e Reusing old log /home/laheca/.config/YouTube Music/Local Storage/leveldb/000027.log 
+2025/08/25-13:25:52.656 4a42f Level-0 table #31: started
+2025/08/25-13:25:52.683 4a42f Level-0 table #31: 14862 bytes OK
+2025/08/25-13:25:52.695 4a42f Delete type=0 #27
+2025/08/25-13:25:52.697 4a42f Compacting 4@0 + 1@1 files
+2025/08/25-13:25:52.706 4a42f Generated table #32@0: 11 keys, 1186 bytes
+2025/08/25-13:25:52.706 4a42f Compacted 4@0 + 1@1 files => 1186 bytes
+2025/08/25-13:25:52.718 4a42f compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/25-13:25:52.718 4a42f Delete type=2 #31
+2025/08/25-13:25:52.718 4a42f Delete type=2 #25
+2025/08/25-13:25:52.718 4a42f Delete type=2 #20
+2025/08/25-13:25:52.718 4a42f Delete type=2 #23
+2025/08/25-13:25:52.718 4a42f Delete type=2 #28
+2025/08/25-14:23:04.190 4a42f Level-0 table #34: started
+2025/08/25-14:23:04.194 4a42f Level-0 table #34: 14387 bytes OK
+2025/08/25-14:23:04.198 4a42f Delete type=0 #30
